@@ -1,0 +1,17 @@
+{
+  "name": "nexo-market-railway-ready",
+  "version": "6.0.0",
+  "description": "NEXO MARKET vFinal upgrade dashboard, tickets, clients, security, pub manager",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
